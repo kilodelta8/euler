@@ -1,2 +1,5 @@
-/.cbp
-/.layout
+bin/
+euler.cbp
+euler.layout
+euler.depend
+obj/
